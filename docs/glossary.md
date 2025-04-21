@@ -95,11 +95,10 @@
 - zawieszenie działalności - временная приостановка деятельности (пауза)
 
 ---
-Ссылки:
-
-- [Cловарь терминов. BusinessPol](https://bizpol.pro/slovar-terminov/)
-- [Słownik pojęć dla przedsiebiorcy](https://ladnepodatki.pl/slownik-pojec-dla-przedsiebiorcy)
-- [словарь в чате ИП в Польше](https://t.me/JDG_PBH/13101)
+!!! tip "Ссылки:"
+    - [Cловарь терминов. BusinessPol](https://bizpol.pro/slovar-terminov/)
+    - [Słownik pojęć dla przedsiebiorcy](https://ladnepodatki.pl/slownik-pojec-dla-przedsiebiorcy)
+    - [словарь в чате ИП в Польше](https://t.me/JDG_PBH/13101)
 
 <!-- resources -->
 
