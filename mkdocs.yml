@@ -1,8 +1,8 @@
 site_name: "JDG — ИП в Польше"
 site_description: "Гайд по регистрации и ведению JDG (ИП) в Польше"
-site_url: https://sobolevbel.github.io/jdg/
-repo_url: https://github.com/sobolevbel/jdg
-repo_name: sobolevbel/jdg
+site_url: https://vadim-levotski.github.io/jdg/
+repo_url: https://github.com/vadim-levotski/jdg
+repo_name: vadim-levotski/jdg
 
 nav:
   - Главная: index.md
@@ -70,14 +70,14 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - toc:
-      slugify: !!python/name:slugify_headers.slugify
-      permalink: ¶
+      #slugify: !!python/name:slugify_headers.slugify
+      permalink: true
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
 
 extra:
-  homepage: https://sobolevbel.github.io/jdg/
+  homepage: https://vadim-levotski.github.io/jdg/
 
   consent:
     title: Cookie consent
