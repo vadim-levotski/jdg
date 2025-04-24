@@ -38,7 +38,7 @@ składki preferencyjne, но и не затягивать с этим, чтоб�
 
    a. Если работаете параллельно на Umowa o Pracę, то с помощью бланка **ZUS ZZA**;
 
-   b. Иначе с помощью бланка **ZUS ZUA** ([подробнее](https://sobolevbel.github.io/jdg/zus_obnizone_skladki/#2-registratsiia-zus-zua-s-kodom-05-70)) с новым кодом 0570 xx.
+   b. Иначе с помощью бланка **ZUS ZUA** ([подробнее](https://vadim-levotski.github.io/jdg/zus_obnizone_skladki/#2-registratsiia-zus-zua-s-kodom-05-70)) с новым кодом 0570 xx.
 
 Если вы переходите с ulga na start на składki preferencyjne, то ваш старый код: **0540**, а новый: **0570**.
 

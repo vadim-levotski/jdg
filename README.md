@@ -1,6 +1,6 @@
 # JDG (Jednoosobowa działalność gospodarcza)  — ИП в Польше
 
-[Перейти на сайт](https://sobolevbel.github.io/jdg/)
+[Перейти на сайт](https://vadim-levotski.github.io/jdg/)
 
 Для сборки сайта из `markdown` файлов используется генератор статических сайтов [MkDocs](https://www.mkdocs.org/).
 С синтаксисом markdown можно ознакомиться [здесь](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
