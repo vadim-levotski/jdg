@@ -1,9 +1,9 @@
-name: JDG
+name: JDG-mirror
 
 on:
   push:
-    branches: [ master ]
-    tags: [ v* ]
+    branches:
+      - mirror
   pull_request:
 
 jobs:
