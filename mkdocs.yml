@@ -70,14 +70,14 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - toc:
-      #slugify: !!python/name:slugify_headers.slugify
-      permalink: true
+      slugify: !!python/name:slugify_headers.slugify
+      permalink: ¶
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
 
 extra:
-  homepage: https://vadim-levotski.github.io/jdg/
+  homepage: https://sobolevbel.github.io/jdg/
 
   consent:
     title: Cookie consent
